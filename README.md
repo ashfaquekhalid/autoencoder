@@ -1,1 +1,1 @@
-# to enhance the resolution of images
+#autoencoder to enhance the resolution of images
